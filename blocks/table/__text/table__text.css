@@ -1,0 +1,10 @@
+.table__text {
+  margin-top: 20px;
+  margin-bottom: 0;
+
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 120%;
+  font-style: normal;
+  text-align: left;
+}
