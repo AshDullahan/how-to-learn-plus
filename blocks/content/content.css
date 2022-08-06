@@ -1,7 +1,7 @@
 .content {
   margin: 0 auto;
 
-  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+  font-family:  'Inter', 'Arial', sans-serif;
   display: flex;
   flex-direction: column;
 }
