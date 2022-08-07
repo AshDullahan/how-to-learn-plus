@@ -5,6 +5,7 @@
   position: absolute;
   width: 765px;
   height: 608px;
+  object-fit: cover;
 
   z-index: 2;
 }
